@@ -24,6 +24,5 @@ namespace TicketSubmission.Controllers
             TicketSubmissionBL ts = new TicketSubmissionBL(new CustomerRepository(new TicketSubmissionDbContext("TicketSubmissionConnectionString")), new TicketPriorityRepository(new TicketSubmissionDbContext("TicketSubmissionConnectionString")), new TicketJournalRepository(new TicketSubmissionDbContext("TicketSubmissionConnectionString")));
             return ts.GetCustomerDetails();
         }
-
     }
 }

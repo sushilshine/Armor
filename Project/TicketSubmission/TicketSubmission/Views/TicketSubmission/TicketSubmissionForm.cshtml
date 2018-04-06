@@ -1,0 +1,58 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Customer Ticket Submission Form</title>
+    <img src="@Url.Content("~/Content/Image/Armor Image.png")" style="width:250px"/>
+    <link rel="stylesheet" type="text/css" href="~/Content/CustomerFormStyle.css">
+    <script src="~/Scripts/jquery-1.10.2.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="~/Scripts/ticketSubmission.js"></script>    
+</head>
+<body>
+    <form id="CustomerForm" method="post" class="label">
+        <fieldset>
+            <legend>Add Ticket</legend>
+            <div>
+                <label class="required-label" for="FirstName">First Name</label>
+                <input type="text" id="fName" name="FirstName" value="" />
+                <span class="nat-err-msg" style="display: none" id="fNameValidationMessage">Please enter First name</span>
+            </div>
+            <div>
+                <label class="required-label" for="LastName">Last Name</label>
+                <input type="text" id="lName" name="LastName" value="" />
+                <span class="nat-err-msg" style="display: none" id="lNameValidationMessage">Please enter Last name</span>
+            </div>
+            <div>
+                <label class="required-label" for="EmailAddress">Email Address</label>
+                <input type="text" id="emAddress" name="EmailAddress" value="" />
+                <span class="nat-err-msg" style="display: none" id="emailAddressValidationMessage">Please enter valid EmailAddress</span>
+            </div>
+            <div>
+                <label class="required-label" for="Subject">Subject</label>                
+                <textarea id="subject" name="Subject" value="" ></textarea>
+                <span class="nat-err-msg" style="display: none" id="subjectValidationMessage">Please enter Subject</span>
+            </div>
+            <div>
+                <label for="Priority">Priority</label>
+                <select id="priority" name="Priority">
+                    <option selected="selected" value=0>Select None</option>
+                </select>
+            </div>
+            <div>
+                <label class="required-label" for="Description">Description of Issue</label>                
+                <textarea id="description" name="Description" value=""></textarea>
+                <span class="nat-err-msg" style="display: none" id="descriptionValidationMessage">Please enter Description</span>
+            </div>
+            <div>
+                <label>&nbsp;</label>
+                <input type="button" id="Save" value="Submit" class="submit"/>
+                <input type="button" id="Reset" value="Reset" class="submit"/>
+            </div>
+        </fieldset>
+    </form>
+</body>
+</html>

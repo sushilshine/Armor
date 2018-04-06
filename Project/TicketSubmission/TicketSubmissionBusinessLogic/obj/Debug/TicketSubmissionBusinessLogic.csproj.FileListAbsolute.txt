@@ -1,0 +1,14 @@
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\bin\Debug\TicketSubmissionBusinessLogic.dll.config
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\bin\Debug\TicketSubmissionBusinessLogic.dll
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\bin\Debug\TicketSubmissionBusinessLogic.pdb
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\bin\Debug\EntityFramework.dll
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\bin\Debug\TicketSubmission.DataAccess.dll
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\bin\Debug\TicketSubmission.Repository.dll
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\bin\Debug\TicketSubmission.DataAccess.pdb
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\bin\Debug\TicketSubmission.Repository.pdb
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\bin\Debug\EntityFramework.xml
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\obj\Debug\TicketSubmissionBusinessLogic.csprojResolveAssemblyReference.cache
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\obj\Debug\TicketSubmissionBusinessLogic.dll
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\obj\Debug\TicketSubmissionBusinessLogic.pdb

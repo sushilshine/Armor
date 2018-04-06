@@ -1,0 +1,14 @@
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\bin\Debug\TicketSubmission.BusinessLogic.Test.dll
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\bin\Debug\TicketSubmission.BusinessLogic.Test.pdb
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\bin\Debug\TicketSubmission.DataAccess.dll
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\bin\Debug\TicketSubmission.Repository.dll
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\bin\Debug\TicketSubmissionBusinessLogic.dll
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\bin\Debug\EntityFramework.dll
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\bin\Debug\TicketSubmission.DataAccess.pdb
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\bin\Debug\TicketSubmission.Repository.pdb
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\bin\Debug\TicketSubmissionBusinessLogic.pdb
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\bin\Debug\EntityFramework.xml
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\obj\Debug\TicketSubmission.BusinessLogic.Test.csprojResolveAssemblyReference.cache
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\obj\Debug\TicketSubmission.BusinessLogic.Test.dll
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\obj\Debug\TicketSubmission.BusinessLogic.Test.pdb

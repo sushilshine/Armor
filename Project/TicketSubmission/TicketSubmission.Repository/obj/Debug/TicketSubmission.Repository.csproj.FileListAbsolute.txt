@@ -1,0 +1,9 @@
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.Repository\bin\Debug\TicketSubmission.Repository.dll
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.Repository\bin\Debug\TicketSubmission.Repository.pdb
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.Repository\bin\Debug\TicketSubmission.DataAccess.dll
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.Repository\bin\Debug\EntityFramework.dll
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.Repository\bin\Debug\TicketSubmission.DataAccess.pdb
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.Repository\bin\Debug\EntityFramework.xml
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.Repository\obj\Debug\TicketSubmission.Repository.csprojResolveAssemblyReference.cache
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.Repository\obj\Debug\TicketSubmission.Repository.dll
+E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.Repository\obj\Debug\TicketSubmission.Repository.pdb

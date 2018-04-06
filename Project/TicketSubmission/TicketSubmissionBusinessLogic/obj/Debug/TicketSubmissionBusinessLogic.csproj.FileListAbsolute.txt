@@ -12,3 +12,17 @@ E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\bin\
 E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\obj\Debug\TicketSubmissionBusinessLogic.csprojResolveAssemblyReference.cache
 E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\obj\Debug\TicketSubmissionBusinessLogic.dll
 E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\obj\Debug\TicketSubmissionBusinessLogic.pdb
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\bin\Debug\TicketSubmissionBusinessLogic.dll.config
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\bin\Debug\TicketSubmissionBusinessLogic.dll
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\bin\Debug\TicketSubmissionBusinessLogic.pdb
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\bin\Debug\EntityFramework.dll
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\bin\Debug\TicketSubmission.DataAccess.dll
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\bin\Debug\TicketSubmission.Repository.dll
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\bin\Debug\TicketSubmission.DataAccess.pdb
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\bin\Debug\TicketSubmission.Repository.pdb
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\bin\Debug\EntityFramework.xml
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\obj\Debug\TicketSubmissionBusinessLogic.csprojResolveAssemblyReference.cache
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\obj\Debug\TicketSubmissionBusinessLogic.dll
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmissionBusinessLogic\obj\Debug\TicketSubmissionBusinessLogic.pdb

@@ -7,3 +7,12 @@ E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.Repository\bin\De
 E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.Repository\obj\Debug\TicketSubmission.Repository.csprojResolveAssemblyReference.cache
 E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.Repository\obj\Debug\TicketSubmission.Repository.dll
 E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.Repository\obj\Debug\TicketSubmission.Repository.pdb
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmission.Repository\bin\Debug\TicketSubmission.Repository.dll
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmission.Repository\bin\Debug\TicketSubmission.Repository.pdb
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmission.Repository\bin\Debug\TicketSubmission.DataAccess.dll
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmission.Repository\bin\Debug\EntityFramework.dll
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmission.Repository\bin\Debug\TicketSubmission.DataAccess.pdb
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmission.Repository\bin\Debug\EntityFramework.xml
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmission.Repository\obj\Debug\TicketSubmission.Repository.csprojResolveAssemblyReference.cache
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmission.Repository\obj\Debug\TicketSubmission.Repository.dll
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmission.Repository\obj\Debug\TicketSubmission.Repository.pdb

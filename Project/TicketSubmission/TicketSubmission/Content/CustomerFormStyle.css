@@ -36,8 +36,8 @@ legend {
 }
 
 fieldset {    
-    width: 500px;
-    height: auto; 
+    width: 510px;
+    height: 400px; 
     margin: 10px auto;
     border: solid;    
 }
@@ -65,7 +65,7 @@ textarea{
 
 .nat-err-msg
 {
-    background-color: #00ffff;
+    background-color: #FFEBEB;
     background-repeat: no-repeat;
     background-position: 2px center;
     border: 1px solid #8c8c8c;

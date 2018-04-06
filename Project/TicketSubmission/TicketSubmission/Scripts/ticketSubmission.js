@@ -64,8 +64,15 @@
 
     function validateForm() {
         validFlag = true;
+        //var pattern = new RegExp(/[~`!#$%\^&*+=\-\[\]\\';,/{}|\\":<>\?]/); //unacceptable chars
+        var pattern = new RegExp(/^[a-zA-Z]*$/)
         if ($('#fName').val() == "") {
             $('#fNameValidationMessage').show();
+            $('#fNameValidationMessage').text("Please Enter First Name");
+            validFlag = false;
+        } else if (!(pattern.test($('#fName').val()))) {
+            $('#fNameValidationMessage').show();
+            $('#fNameValidationMessage').text("Please Enter Valid First Name");
             validFlag = false;
         }
         else {
@@ -73,18 +80,25 @@
         }
         if ($('#lName').val() == "") {
             $('#lNameValidationMessage').show();
+            $('#lNameValidationMessage').text("Please Enter Last Name");
+            validFlag = false;
+        } else if (!(pattern.test($('#lName').val()))) {
+            $('#lNameValidationMessage').show();
+            $('#lNameValidationMessage').text("Please Enter Valid Last Name");
             validFlag = false;
         } else {
             $('#lNameValidationMessage').hide();
         }
         if ($('#emAddress').val() == "") {
             $('#emailAddressValidationMessage').show();
+            $('#emailAddressValidationMessage').text("Please Enter Email Address");
             validFlag = false;
         }
         else {
             var mailformat = /^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/;
             if (!(mailformat.test($('#emAddress').val()))) {
                 $('#emailAddressValidationMessage').show();
+                $('#emailAddressValidationMessage').text("Please Enter Valid Email Address");
                 validFlag = false;
             } else {
                 $('#emailAddressValidationMessage').hide();
@@ -92,12 +106,14 @@
         }
         if ($('#subject').val() == "") {
             $('#subjectValidationMessage').show();
+            $('#subjectValidationMessage').text("Please Enter Subject");
             validFlag = false;
         } else {
             $('#subjectValidationMessage').hide();
         }
         if ($('#description').val() == "") {
             $('#descriptionValidationMessage').show();
+            $('#descriptionValidationMessage').text("Please Enter Description");
             validFlag = false;
         } else {
             $('#descriptionValidationMessage').hide();

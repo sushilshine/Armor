@@ -12,3 +12,17 @@ E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Tes
 E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\obj\Debug\TicketSubmission.BusinessLogic.Test.csprojResolveAssemblyReference.cache
 E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\obj\Debug\TicketSubmission.BusinessLogic.Test.dll
 E:\Private\ALL\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\obj\Debug\TicketSubmission.BusinessLogic.Test.pdb
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\bin\Debug\TicketSubmission.BusinessLogic.Test.dll
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\bin\Debug\TicketSubmission.BusinessLogic.Test.pdb
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\bin\Debug\TicketSubmission.DataAccess.dll
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\bin\Debug\TicketSubmission.Repository.dll
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\bin\Debug\TicketSubmissionBusinessLogic.dll
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\bin\Debug\EntityFramework.dll
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\bin\Debug\TicketSubmission.DataAccess.pdb
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\bin\Debug\TicketSubmission.Repository.pdb
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\bin\Debug\TicketSubmissionBusinessLogic.pdb
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\bin\Debug\EntityFramework.xml
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\obj\Debug\TicketSubmission.BusinessLogic.Test.csprojResolveAssemblyReference.cache
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\obj\Debug\TicketSubmission.BusinessLogic.Test.dll
+E:\Armor\Armor\Project\TicketSubmission\TicketSubmission.BusinessLogic.Test\obj\Debug\TicketSubmission.BusinessLogic.Test.pdb
